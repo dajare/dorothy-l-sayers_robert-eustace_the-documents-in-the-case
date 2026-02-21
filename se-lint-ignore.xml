@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-47.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>No punctuation at the end of a subheading, ×2.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-48.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>No punctuation at the end of a subheading.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
