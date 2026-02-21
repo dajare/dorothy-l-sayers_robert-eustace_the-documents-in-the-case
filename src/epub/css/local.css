@@ -17,8 +17,8 @@ header > [epub|type~="z3998:salutation"]{
 }
 
 [epub|type~="z3998:letter"] header + p{
-    margin-top: 0;
-    text-indent: 0;
+	margin-top: 0;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:recipient"],
@@ -76,8 +76,8 @@ p span.i1{
 	font-variant: all-small-caps;
 }
 
-#chapter-47  header > p:nth-last-of-type(-n + 3):after,
-#chapter-48  header > p:nth-last-of-type(-n + 3):after{
+#chapter-47 header > p:nth-last-of-type(-n + 3):after,
+#chapter-48 header > p:nth-last-of-type(-n + 3):after{
 	border-top: 1px solid;
 	content: "";
 	display: block;
@@ -90,21 +90,21 @@ p span.i1{
 #chapter-48 .subhead,
 #chapter-49 .subhead{
 	font-variant: small-caps;
-    margin: 1em auto;
-    text-indent: 0;
+	margin: 1em auto;
+	text-indent: 0;
 }
 
 #chapter-47 .subhead,
 #chapter-48 .subhead{
-    text-align: center;
+	text-align: center;
 }
 
 #chapter-48 footer{
-    text-align: inherit;
+	text-align: inherit;
 }
 
 #chapter-49 ol:nth-of-type(even){
-    list-style-type: "2. ";
+	list-style-type: "2. ";
 }
 
 #chapter-49 ol + p{
@@ -112,11 +112,11 @@ p span.i1{
 }
 
 #chapter-53 blockquote header p:nth-of-type(2){
+	margin: 1em auto;
 	text-transform: uppercase;
-    margin: 1em auto;
 }
 
 #chapter-53 div{
-    font-style: italic;
+	font-style: italic;
 }
 /* end custom */
