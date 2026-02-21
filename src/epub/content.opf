@@ -60,6 +60,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Dorothy_L._Sayers</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79046044</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">win</meta>
 		<dc:creator id="author-2">Robert Eustace</dc:creator>
 		<meta property="file-as" refines="#author-2">Eustace, Robert</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">Eustace Robert Barton</meta>
